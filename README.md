@@ -73,7 +73,6 @@ Line4:
 import pandas as pd
 # Retrieve all documents from the collection
 data = collection.find()
-# Convert the data to a Pandas DataFrame
 df = pd.DataFrame(list(data))
 # Display the first few rows
 df.head()
