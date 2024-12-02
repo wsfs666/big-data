@@ -90,4 +90,5 @@ SUCCESSFULLY RUNNING JOBS
         
 
 
-![image](https://github.com/user-attachments/assets/fe25b449-8b0f-416e-83da-d31b0a7cb840)
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/96ea749c-f8b8-41e1-a8e5-c279a228164d">
+
